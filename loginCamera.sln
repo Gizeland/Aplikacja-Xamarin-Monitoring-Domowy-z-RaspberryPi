@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginCamera.Android", "loginCamera.Android\loginCamera.Android.csproj", "{6C7CD127-AA20-4430-B102-68807C30E3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginCamera", "loginCamera\loginCamera.csproj", "{15BB601E-FBF6-42C0-AF1E-C215E693F2E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C7CD127-AA20-4430-B102-68807C30E3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7CD127-AA20-4430-B102-68807C30E3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7CD127-AA20-4430-B102-68807C30E3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7CD127-AA20-4430-B102-68807C30E3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BB601E-FBF6-42C0-AF1E-C215E693F2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BB601E-FBF6-42C0-AF1E-C215E693F2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BB601E-FBF6-42C0-AF1E-C215E693F2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BB601E-FBF6-42C0-AF1E-C215E693F2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
